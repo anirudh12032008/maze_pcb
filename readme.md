@@ -5,10 +5,10 @@ Mazerr is a cool pcb created by me which has a maze on a hacker card to play wit
 it has a maze in it!!! go play with it show off on your friends and also on some boring hacker cards because you can play on this card lol, ( no hackercard was hurt during this )
 
 ## Images
-<img width="446" height="383" alt="maze5" src="https://github.com/user-attachments/assets/101d2649-0be6-460d-a34d-c0ac6811e14a" />
-<img width="441" height="392" alt="maze6" src="https://github.com/user-attachments/assets/cf5687a0-cb44-4634-8108-80cd7cdbb9bf" />
-<img width="522" height="456" alt="maze3" src="https://github.com/user-attachments/assets/83878d28-1b77-4b30-9f03-d651b07bae75" />
-<img width="512" height="454" alt="maze4" src="https://github.com/user-attachments/assets/763d8070-2b10-4900-8daa-5495d9dc801f" />
+<img width="425" height="374" alt="maze13" src="https://github.com/user-attachments/assets/6e528101-2989-4820-ae46-9dfa17d40cae" />
+<img width="425" height="284" alt="maze12" src="https://github.com/user-attachments/assets/1a0d221a-109c-4be4-adea-569f95aee82b" />
+<img width="405" height="354" alt="maze11" src="https://github.com/user-attachments/assets/fc3325cb-7212-4fb7-9971-1eb623d64fa9" />
+<img width="441" height="360" alt="maze10" src="https://github.com/user-attachments/assets/30ae84a8-06e3-47e0-83f1-5d06d83e9d57" />
 <img width="607" height="399" alt="maze" src="https://github.com/user-attachments/assets/70118038-137e-440c-96ba-495886f57846" />
 
 ## BOM
