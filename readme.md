@@ -12,6 +12,10 @@ it has a maze in it!!! go play with it show off on your friends and also on some
 <img width="441" height="360" alt="maze10" src="https://github.com/user-attachments/assets/30ae84a8-06e3-47e0-83f1-5d06d83e9d57" />
 <img width="607" height="399" alt="maze" src="https://github.com/user-attachments/assets/70118038-137e-440c-96ba-495886f57846" />
 
+A pen also for thr probe
+<img width="563" height="483" alt="pen" src="https://github.com/user-attachments/assets/7b1ec64b-4985-4b4d-bb64-f0daff25939d" />
+
+
 ## BOM
 | **Item**              | **Price (INR)** | **Price (USD)** | 
 |-----------------------|-----------------|------------------|
